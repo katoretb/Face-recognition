@@ -1,8 +1,12 @@
-Example of split an image to grayscale and merge to one color image
+Face recognition using python
 
 ## Library
 ```
-Opencv
-glob
+face_recognition  pip install face-recognition
+imutils           pip install imutils
+pickle
+time
+Opencv2           pip install opencv-python
+numpy             pip install numpy
 os
 ```
